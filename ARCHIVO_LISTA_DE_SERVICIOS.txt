@@ -1,0 +1,5 @@
+1001:45476339:Compra:de pc retro:2600:02-03-2015:marcos
+1002:123456789:Cableado:de pc retro:2600:08-10-2000:marcos
+1004:123456789:Compra:de pc retro:2600:02-03-2015:marcos
+1005:38874569:red red red:de pc retro:2600:02-03-2015:marcos
+1006:123456789:Compra:Rysen 3:2600:10-10-2019:marcos

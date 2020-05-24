@@ -1,0 +1,41 @@
+#Este programa se utiliza para el mantenimiento informatico de una empresa
+
+
+Instrucciones
+
+Menu 
+	1) Alta de Servicio
+		*Al ingresar un servicio, se debera ingresar los datos del cliente que proporciona la empresa
+
+
+
+	2) Baja de Servicio
+		*Se dara de baja un service que por circunstancias no se pudo finalizar o el
+		*cliente cancelo la reserva
+
+
+	3) Modificar lista de Servicio
+		*Se plantea la modificacion de distintos campos en el servicio
+		*Dando la posibilidad de corregir errores en la base de datos
+
+
+
+	4) Listar Cliente 
+		*Despliega la lista de clientes
+
+
+
+	5) Listar Servicios 
+		**Despliega la lista de servicios 
+
+
+	6) Consultas 
+		*Se da la posibilidad de realizar 5 consultas
+		* en la base de datos. 
+
+
+Fin
+
+
+
+@dem Todos los derechos reservados
